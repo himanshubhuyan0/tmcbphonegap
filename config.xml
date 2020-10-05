@@ -2,7 +2,7 @@
 <widget id="io.iitechnology.tmcb" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" versionCode="1">
     <name>TMCB</name>
     <description>An awesome TMCB app.</description>
-    <author email="himanshubhuyan0@gmail.com" href="http://ionicframework.com/">Himanshu Bhuyan</author>
+    <author email="himanshubhuyan0@gmail.com" href="http://assamgovjobs.com/">Himanshu Bhuyan</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
